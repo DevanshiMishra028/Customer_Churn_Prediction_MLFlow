@@ -6,7 +6,7 @@ import dagshub
 mlflow.set_tracking_uri("https://dagshub.com/mdevanshi80/Customer_Churn_Prediction_MLFlow.mlflow")
 
 #os.environ['MLFLOW_TRACKING_USERNAME']= 'mdevanshi80'
-#os.environ['MLFLOW_TRACKING_PASSWORD']= '3882727c978207f868ce2e5ce39084f457a84237'
+#os.environ['MLFLOW_TRACKING_PASSWORD']= '*****************'
 #os.environ['MLFLOW_TRACKING_URI']= 'https://dagshub.com/mdevanshi80/Customer_Churn_Prediction_MLFlow.mlflow'
 
 
